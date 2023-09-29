@@ -1,4 +1,5 @@
 def sort (scores, names, first: int):
+	# I wasn't sure how to implement sorting names, so I did it kind of weird
 	"""_summary_
 
 	Args:
